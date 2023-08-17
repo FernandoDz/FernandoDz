@@ -4,7 +4,7 @@
   Hi👋 I'm Fernando Diaz 👨‍💻
 </h1>
 <div align='center'>
-  <img src="https://thumbs.gfycat.com/DevotedNippyJabiru-size_restricted.gif" alt="Funny image">
+  <img src="https://gifdb.com/images/high/hasbulla-mini-khabib-wrestler-youre-dead-punching-gloves-i1c8fnuzh69g5e7l.gif" alt="Funny image">
 </div>
 
 <p align='center'>
