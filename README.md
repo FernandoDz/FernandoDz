@@ -3,7 +3,7 @@
   Hi👋 I'm Fernando Diaz 👨‍💻
 </h1>
 <div align='center'>
-  <img src="https://images.app.goo.gl/zcKhSjFZHSzRTNcN8" alt="Funny image">
+  <img src="https://tenor.com/bRfnY.gif" alt="Funny image">
 </div>
 
 <p align='center'>
