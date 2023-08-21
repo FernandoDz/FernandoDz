@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-  Hi👋 I'm Fernando Diaz 👨‍💻
+  Hi ⚡I'm Fernando Diaz⚡
 </h1>
 <div align='center'>
   <img src="https://media.tenor.com/2co4feAipsYAAAAd/hasbulla-hasbik.gif" alt="Funny image" width="200px" heigth="100px">
