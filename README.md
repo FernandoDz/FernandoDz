@@ -3,7 +3,7 @@
   Hi👋 I'm Fernando Diaz 👨‍💻
 </h1>
 <div align='center'>
-  <img src="https://media.tenor.com/4-Ft2Xrx0FgAAAAC/hasbulla-has.gif" alt="Funny image" width="200px" heigth="100px">
+  <img src="https://media.tenor.com/2co4feAipsYAAAAd/hasbulla-hasbik.gif" alt="Funny image" width="200px" heigth="100px">
 </div>
 
 <p align='center'>
