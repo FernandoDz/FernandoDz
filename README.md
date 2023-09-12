@@ -58,9 +58,9 @@ Currently, I am studying at Oracle Next Education and doing projects at No Count
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FernandoDz&theme=soft-green)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FernandoDz&theme=merko)](https://git.io/streak-stats)
 
 ![FernandoDz GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoDz&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDz&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDz&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 </div>
