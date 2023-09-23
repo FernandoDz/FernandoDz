@@ -2,8 +2,7 @@
     <h1 align="center">Hi, I'm Fernando Diaz⚡</h1>
     <h3 align="center">Software Developer - Cloud Engineer☁️</h3>
     <div align='center'>
-  <img src="https://media.tenor.com/2co4feAipsYAAAAd/hasbulla-hasbik.gif" alt="Funny image" width="200px" heigth="100px">
-</div>
+  
     <p>I am a software developer working in my profession in office tasks.
 However, after graduating, I became interested in the world of programming, so I continued my studies as a frontend developer at Devtalles ,and other programs.
 Currently, I am studying at Oracle Next Education and doing projects at No Country. Also, I've an intermediate level of English. Until I can finish my courses, my goal is to be able to work as a developer from now on.</p>
