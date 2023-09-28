@@ -3,7 +3,7 @@
     <h3 align="center">Software Developer - Cloud Engineer☁️</h3>
     <div align='center'>
   
-    <p>I am a software developer working in my profession in office tasks.
+    <p>I am a software developer working in my profession in office tasks.</p>
 However, after graduating, I became interested in the world of programming, so I continued my studies as a frontend developer at Devtalles ,and other programs.
 Currently, I am studying at Oracle Next Education and doing projects at No Country. Also, I've an intermediate level of English. Until I can finish my courses, my goal is to be able to work as a developer from now on.</p>
 <a href="https://portafolio-josediaz.netlify.app/"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/fernandodiazdev/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
